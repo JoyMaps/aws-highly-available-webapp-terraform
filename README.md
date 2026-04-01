@@ -147,7 +147,7 @@ aws-highly-available-webapp/
 
 ## 📸 Architecture Diagram
 
-(Add your diagram image here)
+![image alt](https://github.com/JoyMaps/aws-highly-available-webapp-terraform/blob/2a47a5cba0abc14393c7a1ac94b4e1d0e6baa243/Copy%20of%20finalHighlyAvailableArchitect-Page-1.drawio.png)
 
 ---
 
