@@ -65,7 +65,7 @@ User → Route 53 → CloudFront → ALB → EC2 (Auto Scaling) → RDS
 
 CloudWatch is used to monitor:
 
-* ALB metrics (5xx errors)
+* ALB metrics 
 * EC2 logs and CPU usage
 * Auto Scaling events
 * RDS performance metrics
